@@ -20,24 +20,31 @@ function Projects() {
         </figure>
         <div className="card-body">
           <h2 className="card-title">
-            DEVELOPED TECHNOLOGY PLATFORM FOR DRAG-AND-DROP CREATION OF MOBILE
-            APPLICATIONS
+            DESARROLLAMOS UNA PLATAFORMA TECNOLÓGICA PARA LA CREACIÓN DE
+            APLICACIONES MÓVILES CON LA FUNCIÓN DE ARRASTRAR Y SOLTAR
           </h2>
           <p>
-            Our technology platform revolutionizes mobile application
-            development by offering a user-friendly drag-and-drop interface.
-            With our intuitive system, users can effortlessly create custom
-            mobile applications without needing extensive coding knowledge. This
-            innovative platform streamlines the development process, empowering
-            individuals and businesses to bring their app ideas to life quickly
-            and efficiently. Whether you´re a seasoned developer or a newcomer
-            to app development, our platform simplifies the process, allowing
-            you to focus on creativity and functionality.
+            Nuestra plataforma tecnológica revoluciona el desarrollo de
+            aplicaciones móviles al ofrecer una interfaz fácil de usar de
+            arrastrar y soltar. Con nuestro sistema intuitivo, los usuarios
+            pueden crear fácilmente aplicaciones móviles personalizadas sin
+            necesidad de amplios conocimientos de codificación. Esta plataforma
+            innovadora agiliza el proceso de desarrollo y permite a individuos y
+            empresas hacer realidad sus ideas de aplicaciones de manera rápida y
+            eficiente. Ya sea que sea un desarrollador experimentado o un recién
+            llegado al desarrollo de aplicaciones, nuestra plataforma simplifica
+            el proceso, permitiéndole concentrarse en la creatividad y la
+            funcionalidad.
           </p>
           <div className="card-actions justify-end">
-            <button type="button" className="btn btn-primary">
-              Go
-            </button>
+            <a
+              href="https://techdrop.blog.niobe.work/contacto/"
+              target="blank_"
+            >
+              <button type="button" className="btn btn-primary">
+                Ver más
+              </button>
+            </a>
           </div>
         </div>
       </div>

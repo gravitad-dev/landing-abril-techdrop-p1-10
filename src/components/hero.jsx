@@ -17,6 +17,8 @@ function Hero() {
           style={{ maxWidth: "360px" }}
         >
           <h2 className="mb-5">{texts["section-two"].body}</h2>
+          {/*
+          
           <button
             type="button"
             style={{
@@ -34,6 +36,7 @@ function Hero() {
               {texts["section-two"].button}
             </a>
           </button>
+          */}
         </div>
       </div>
       <div className="md:w-1/2 md:mr-10">
