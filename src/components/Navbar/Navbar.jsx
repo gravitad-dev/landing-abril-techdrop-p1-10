@@ -38,15 +38,6 @@ const Navbar = () => {
                 Blog
               </a>
             </div>
-            <div className="" style={{ color: "#272727" }}>
-              <select
-                style={{ backgroundColor: "#FAFAFA" }}
-                name="select1"
-                id="select1"
-              >
-                <option value="EN">EN</option>
-              </select>
-            </div>
           </>
         )}
 
